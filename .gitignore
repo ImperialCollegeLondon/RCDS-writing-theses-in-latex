@@ -1,3 +1,8 @@
 *.ini
 ~$*
-*.tex
+*.aux
+*.sheet.fdb_latexmark
+*.fls
+*.log
+*.out
+*.synctex.gz

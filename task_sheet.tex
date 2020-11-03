@@ -1,0 +1,134 @@
+\documentclass[11pt,a4paper]{article} 
+\usepackage{graphicx} 
+\usepackage{amssymb, amsmath} 
+\usepackage[margin=1cm]{geometry}
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+
+\begin{document}
+\title{Writing Theses in \LaTeX: Task Sheet}
+\author{Chris Cooling}
+\maketitle
+\pagestyle{empty}
+\thispagestyle{empty}
+
+\section{Creating a document}
+\begin{itemize}
+\item Create a new project called in Overleaf ``Thesis''
+\item Create a new report document
+\item Select a fontsize (11pt)
+\item Select the type of page you want to write on (A4)
+\item Make the document double-sided
+\item Set the margins such that they are symmetric and over 1cm
+\item Test how it looks with some blindtext or other nonsense text
+\item Verify page numbers appear on each page
+\end{itemize}
+
+\section{Line Spacing}
+\begin{itemize}
+\item Use the ``linespread'' command to make the spacing for document 1.5 or 2 times
+\item Include a section of document with single line spacing
+\item Include a footnote with single-lined spacing
+\end{itemize}
+
+\section{Title Page}
+\begin{itemize}
+\item Make a title page you find aesthetically pleasing
+\item Ensure it follows all the requirements laid down by Imperial
+\end{itemize}
+
+\section{Thesis Preamble}
+\begin{itemize}
+\item Add a declaration of originality
+\item Add a copyright statement
+\item Add an abstract
+\item Use blindtext or other placeholder text for the content
+\end{itemize}
+
+\section{Contents and Appendices}
+\begin{itemize}
+\item Add some chapters, appendices sections and sub-sections to your document
+\item Add some tables and figures to your document
+\item Add a table of contents, list of figures and list of tables to your document
+\item Add a chapter to your table of contents named ``Supplementary Material'' without creating a new chapter in your pdf
+\item Add a new table to the list of tables in this new chapter without the table appearing in your document
+\item Add a new figure to the list of figures in this new chapter without the figure appearing in your document
+\end{itemize}
+
+\section{Splitting Your Document}
+\begin{itemize}
+\item Put the content for each chapter and appendix in a different .tex file
+\item Use the ``include'' command to include each document in your thesis.tex file
+\item Experiment using the ``includeonly'' command to only compile some of your chapters
+\end{itemize}
+
+\section{Hyperlinks}
+\begin{itemize}
+\item Use the ``hyperref'' package to make your references dynamic hyperlinks
+\item Experiment with different colours for your links and choose one you like
+\end{itemize}
+
+\section{Graphics Path}
+\begin{itemize}
+\item Create a different directory for each chapter of your thesis
+\item Move your figures into the relevant directory
+\item Set the graphicspath so it includes each of these directories
+\end{itemize}
+
+\section{Subfigures}
+\begin{itemize}
+\item Find some pictures you like online (or use some from your research)
+\item Place them in them in the relevant directory for graphics
+\item Insert a subfigure into your document
+\item Give each subfigure a caption and a label
+\item Give the figure a caption and a label
+\item Reference the figure and a subfigure in some text
+\end{itemize}
+
+\section{Custom Commands}
+\begin{itemize}
+\item Create a custom command for a phrase you expect to often in your thesis
+\item Create a custom command for a mathematical expression. It should take at least one argument.
+\item Use both custom commands in your document
+\end{itemize}
+
+\section{Bibliography Management}
+\begin{itemize}
+\item Create a .bib file
+\begin{itemize}
+\item If you use a reference management software, ask it to export your reference library as a .bib file
+\item Otherwise, make up a few references by hand
+\end{itemize}
+\item Cite a few of your references in your text
+\item Use ``citet', ``citep'' and, at least once,  cite multiple references in a single command
+\item Choose a referencing style you like
+\end{itemize}
+
+\section{Acronyms}
+\begin{itemize}
+\item Define some acronyms relevant to your topic
+\item Use each acronym at least twice each in some sample text
+\end{itemize}
+
+\section{Aligning Equations}
+\begin{itemize}
+\item Define an alignat environment with at least three equations
+\item Use at least one alignment point each equation to cause them to line up
+\end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
