@@ -1,7 +1,7 @@
 *.ini
 ~$*
 *.aux
-*.sheet.fdb_latexmark
+*.fdb_latexmk
 *.fls
 *.log
 *.out
