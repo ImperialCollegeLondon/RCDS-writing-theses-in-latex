@@ -10,7 +10,7 @@ Before attending this course you should a working knowledge of the basics of Lat
 
 You should set up an Overleaf account by going to [overleaf.com](overleaf.com) and clicking register. If you use your Imperial email address you will get the benefits fo Imperial's professional licence.
 
-Course materials are available [here](https://github.com/coolernato/Writing-Theses-in-LaTeX)
+Course materials are available [here](https://github.com/coolernato/Writing-Theses-in-LaTeX). There's no need to review these before the course.
 
 ### Webinar Instructions
 
@@ -18,4 +18,4 @@ Before attending this course you should a working knowledge of the basics of Lat
 
 You should set up an Overleaf account by going to [overleaf.com](overleaf.com) and clicking register. If you use your Imperial email address you will get the benefits fo Imperial's professional licence.
 
-Course materials are available [here](https://github.com/coolernato/Writing-Theses-in-LaTeX)
+Course materials are available [here](https://github.com/coolernato/Writing-Theses-in-LaTeX). There's no need to review these before the course.
