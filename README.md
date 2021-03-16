@@ -8,7 +8,7 @@ This course will take place in an ICT computer room and so laptops are not requi
 
 Before attending this course you should a working knowledge of the basics of Latex. If you don't have this, you should work through and feel comfortable with the materials in the Graduate School Introduction to LaTeX course, which is found [here](https://github.com/coolernato/Introduction-to-LaTeX).
 
-You should set up an Overleaf account by going to [overleaf.com](overleaf.com) and clicking register. If you use your Imperial email address you will get the benefits fo Imperial's professional licence.
+You should set up an Overleaf account by going to [overleaf.com](https://overleaf.com) and clicking register. If you use your Imperial email address you will get the benefits fo Imperial's professional licence.
 
 Course materials are available [here](https://github.com/coolernato/Writing-Theses-in-LaTeX). There's no need to review these before the course.
 
@@ -16,6 +16,6 @@ Course materials are available [here](https://github.com/coolernato/Writing-Thes
 
 Before attending this course you should a working knowledge of the basics of Latex. If you don't have this, you should work through and feel comfortable with the materials in the Graduate School Introduction to LaTeX course, which is found [here](https://github.com/coolernato/Introduction-to-LaTeX).
 
-You should set up an Overleaf account by going to [overleaf.com](overleaf.com) and clicking register. If you use your Imperial email address you will get the benefits fo Imperial's professional licence.
+You should set up an Overleaf account by going to [overleaf.com](https://overleaf.com) and clicking register. If you use your Imperial email address you will get the benefits fo Imperial's professional licence.
 
 Course materials are available [here](https://github.com/coolernato/Writing-Theses-in-LaTeX). There's no need to review these before the course.
