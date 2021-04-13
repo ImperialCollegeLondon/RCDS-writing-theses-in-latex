@@ -6,4 +6,4 @@ Before attending this course you should a working knowledge of the basics of Lat
 
 You should set up an Overleaf account by going to [overleaf.com](https://overleaf.com) and clicking register. 
 
-Course materials are available [here](https://github.com/coolernato/blob/ICR/Writing-Theses-in-LaTeX). There's no need to review these before the course.
+Course materials are available [here](https://github.com/coolernato/Writing-Theses-in-LaTeX/tree/ICR). There's no need to review these before the course.
