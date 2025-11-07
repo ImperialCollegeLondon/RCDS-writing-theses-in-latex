@@ -5,7 +5,7 @@ Perform all the following exercises in a single LaTeX project. This will build u
 ## Creating a Document
 
 * Create a new LaTeX project in whatever LaTeX editor you prefer
-* If yuo did this in Overleaf, delete any sample text in the document
+* If you did this in Overleaf, delete any sample text in the document
 * Create a new report document
 * Select the main font-size to 12pt
 * Select the type of page you want to write on (A4)
