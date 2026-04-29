@@ -10,7 +10,7 @@ If you don't use one of these, choose a reference manager, add a couple of refer
 
 ### Pre-requisite Knowledge
 
-Before attending this course you should be comfortable with the basics of Latex. If you don't aren't comfortable with the basics, you should attend the [Graduate School Introduction to LaTeX course](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/introduction-to-latex/) first, or self-study the materials of this course [here](https://github.com/coolernato/Introduction-to-LaTeX).
+Before attending this course you should be comfortable with the basics of Latex. If you don't aren't comfortable with the basics, you should attend the [ECRI to LaTeX course](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/introduction-to-latex/) first, or self-study the materials of this course [here](https://github.com/coolernato/Introduction-to-LaTeX).
 
 ### Webinar Instructions
 
